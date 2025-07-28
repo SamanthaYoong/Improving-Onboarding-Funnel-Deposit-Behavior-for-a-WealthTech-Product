@@ -55,7 +55,7 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 
 ---
 
-## 🛠 Skills & Tools Used
+## 📈 Skills & Tools Used
 - **SQL (BigQuery style)** – funnel tracking, deposit segmentation  
 - **Tableau** – live dashboards for PMs & Head of Product  
 - **Event Taxonomy Design** – pre-launch event schema for accurate tracking  
