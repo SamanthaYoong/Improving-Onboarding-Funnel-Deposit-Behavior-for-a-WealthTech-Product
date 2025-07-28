@@ -34,7 +34,7 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 - Discovered **weekend signups** had a **15% lower first-deposit rate** — likely due to verification/support gaps.
 
 ### 4️⃣ Post-Launch Reporting & Next Steps
-- Built a **Launch Impact Dashboard** ([Tableau Public – placeholder link]) summarizing:
+- Built a **Launch Impact Dashboard** summarizing:
   - Conversion uplift after onboarding redesign (+12% overall)
   - 30-day cohort retention
   - Deposit frequency & average value by channel
