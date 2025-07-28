@@ -7,7 +7,11 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 - Analyzing funnel performance and deposit behaviors post-launch.
 - Delivering data-driven recommendations for user growth and product optimization.
 
-[**View my Tableau Dashboard here**](https://public.tableau.com/app/profile/samantha.yoong/vizzes)
+---
+
+## 📈 View Dashboard  
+👉 [**View my Tableau Dashboard here**](https://public.tableau.com/views/your-link)
+
 ---
 
 ## 📈 Approach
