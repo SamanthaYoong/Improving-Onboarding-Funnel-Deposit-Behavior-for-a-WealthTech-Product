@@ -41,10 +41,10 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 ---
 
 ## 📈 Key Deliverables
-- ✅ **Tableau Dashboards**: Funnel tracking, deposit behavior segmentation, post-launch performance.
-- ✅ **SQL Queries**: Joined onboarding events with deposit logs for analysis.
-- ✅ **Insights Report (5 pages)**: Highlighted findings for the Product & Growth team.
-- ✅ **Recommendations Presentation**: Actionable next steps with forecasted impact.
+- 1️⃣ **Tableau Dashboards**: Funnel tracking, deposit behavior segmentation, post-launch performance.
+- 2️⃣ **SQL Queries**: Joined onboarding events with deposit logs for analysis.
+- 3️⃣ **Insights Report (5 pages)**: Highlighted findings for the Product & Growth team.
+- 4️⃣ **Recommendations Presentation**: Actionable next steps with forecasted impact.
 
 ---
 
