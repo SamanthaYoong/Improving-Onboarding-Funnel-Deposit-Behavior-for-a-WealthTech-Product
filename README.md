@@ -9,12 +9,6 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 
 ---
 
-## 📈 View Dashboard  
- [**View on Tableau Public**](https://public.tableau.com/app/profile/samantha.yoong/viz/ImprovingOnboardingFunnelDepositBehaviorforaWealthTechProduct/Sheet1#1)
-In-Progress
-
----
-
 ## 📈 Approach
 
 ### 1️⃣ Product Launch Monitoring
