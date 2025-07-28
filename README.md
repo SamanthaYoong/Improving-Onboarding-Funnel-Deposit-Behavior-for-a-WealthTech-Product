@@ -1,6 +1,6 @@
-# 📊 Case Study: Improving Onboarding Funnel & Deposit Behavior for a WealthTech Product
+#  Case Study: Improving Onboarding Funnel & Deposit Behavior for a WealthTech Product
 
-## 🎯 Objective
+## 📈 Objective
 Simulate the role of a **Product Data Analyst** at **StashAway** by:
 
 - Monitoring a product feature launch (a redesigned onboarding flow).
@@ -9,7 +9,7 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 
 ---
 
-## 🔍 Approach
+## 📈 Approach
 
 ### 1️⃣ Product Launch Monitoring
 - Defined **key success metrics** for the new onboarding flow (`Signup → KYC → Portfolio Setup → First Deposit`).
@@ -48,7 +48,7 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 
 ---
 
-## 💡 Impact (Hypothetical Scenario)
+## 📈 Impact (Hypothetical Scenario)
 - **First-deposit conversion:** +15% within 3 weeks  
 - **Deposit volume:** +20% from FPX channel focus  
 - **Onboarding completion:** 10% drop-off reduction at KYC stage  
