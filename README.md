@@ -17,7 +17,7 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 - Collaborated with a simulated “PM team” to **pre-set event tracking** (`kyc_start`, `portfolio_created`, `deposit_initiated`) for clean data flow.
 
 ### 2️⃣ Funnel & Drop-off Analysis
-- Analyzed **50K users** through the funnel:
+- Analyzed **5K users** through the funnel:
   - **Step 1:** Signup → KYC start **(87%)**
   - **Step 2:** KYC → Portfolio Setup **(65%)**
   - **Step 3:** Portfolio Setup → First Deposit **(48%)**
