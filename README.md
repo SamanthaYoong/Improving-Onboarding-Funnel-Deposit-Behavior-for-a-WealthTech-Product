@@ -26,7 +26,6 @@ Simulate the role of a **Product Data Analyst** at **StashAway** by:
 ### 3️⃣ Deposit Behavior Insights
 - Segmented users by **deposit method** (bank transfer, credit card, FPX).
 - Found **FPX users** converted **2× faster** and deposited **20% more** on average.
-- Discovered **weekend signups** had a **15% lower first-deposit rate** — likely due to verification/support gaps.
 
 ### 4️⃣ Post-Launch Reporting & Next Steps
 - Built a **Launch Impact Dashboard** summarizing:
